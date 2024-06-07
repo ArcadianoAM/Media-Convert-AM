@@ -7,4 +7,6 @@ For the proper functioning of the program, the user needs to ensure that the fol
 If the user does not have FFmpeg installed or it is not accessible from the system path, they might encounter errors during video conversion. In such a case, they need to install FFmpeg and ensure that the path is configured correctly.
 Fortunately, Python and many of the libraries used are easily available and can be installed via tools like pip. However, FFmpeg might require a separate installation procedure.
 
+![AM Video Converter](https://github.com/ArcadianoAM/Media-Convert-AM/assets/1190952/4a62aafc-7858-4e72-98f2-2c8fb0f68678)
+
  
